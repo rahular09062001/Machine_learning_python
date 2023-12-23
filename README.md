@@ -2,6 +2,8 @@
 
 [![Python 3.10.12](https://img.shields.io/badge/Python_3.10.12-tested-green)]()
 [![Python 3.10.12](https://img.shields.io/badge/NumPy_1.26.2-tested-green)]()
+[![Python 3.10.12](https://img.shields.io/badge/pandas_2.1.4-tested-green)]()
+[![Python 3.10.12](https://img.shields.io/badge/Matplotlib_3.5.1-tested-green)]()
 
 My Machine Learning Codes and Algorithms
 ## Contents
